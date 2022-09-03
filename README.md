@@ -1,5 +1,8 @@
 # Frontend Mentor - Fylo data storage component solution
 
 ### Screenshot
-![ki](design/desktop-design.jpg)
+![](design/desktop-design.jpg)
+
+## Mobile
+![](design/mobile-design.jpg)
 
